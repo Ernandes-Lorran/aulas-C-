@@ -8,7 +8,7 @@ int main () {
     string a, b, tempo;
 
     cout << "digite a primeira variavel: ";
-    cin >> a
+    cin >> a;
     cin.ignore();
     cout << "digite a segunda variavel: ";
     cin >> b;
