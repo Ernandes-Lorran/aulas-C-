@@ -11,14 +11,14 @@ int main (){
     int c[20];
    
     
-    cout <<"digite 3 valores" << endl;
+    cout <<"digite 20 valores" << endl;
     for (int i = 0; i <20; i++){
         cout << "A[" << i << "] =";
         cin >> a[i];
     }
 
 
-    cout <<"digite 3 valores" << endl;
+    cout <<"digite 20 valores" << endl;
     for (int i = 0; i <20; i++){
         cout << "b[" << i << "] =";
         cin >> b[i];
